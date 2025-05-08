@@ -1,0 +1,11 @@
+[
+    {"id": 1, "name": "Saree", "price": 1499, "image": "saree1.jpg"},
+    {"id": 3, "name": "Saree", "price": 1199, "image": "saree3.jpg"},
+    {"id": 4, "name": "Saree", "price": 1099, "image": "saree4.jpg"},
+    {"id": 5, "name": "Saree", "price": 1499, "image": "saree5.jpg"},
+    {"id": 6, "name": "Saree", "price": 999, "image": "saree6.jpg"},
+    {"id": 7, "name": "Saree", "price": 1499, "image": "saree7.jpg"},
+    {"id": 8, "name": "Saree", "price": 899, "image": "saree8.jpg"},
+    {"id": 9, "name": "Saree", "price": 1499, "image": "saree9.jpg"},
+    {"id": 10, "name": "Saree", "price": 699, "image": "saree10.jpg"}
+]
